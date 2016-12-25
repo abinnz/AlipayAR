@@ -3,7 +3,7 @@
 # How to Use
 
 #### 1、restore one picture
-🌰  python alipayar.py input/IMG_1838.PNG
+🌰  python alipayar.py input/IMG_1838.PNG   
 🌰  python alipayar.py png
 #### 2、restore a lot of pictures
 🌰  python alipayar.py input/ output/
